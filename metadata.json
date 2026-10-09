@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Hub - Premium Landing & Surprise Portal",
+  "description": "Zamonaviy innovatsion platforma: Landing page, real ishlovchi ro'yxatdan o'tish, kirish, parolni tiklash va maxfiy interaktiv surpriz xonasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
